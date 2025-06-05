@@ -1,0 +1,1 @@
+const myTotal = myNums.reduce();
